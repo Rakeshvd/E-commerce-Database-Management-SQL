@@ -8,10 +8,13 @@ We will create a simple e-commerce database for this project. Here is the databa
 
 ![ecommerce database schema drawio](https://user-images.githubusercontent.com/19198181/224200102-fcddd717-efaa-4f0e-9a92-da25e0f7dded.png)
 
+_(open the impage in new tab and use zoom for better visibility)_
+
 ER diagram:
 
-![e-commerce database ER diagram drawio](https://user-images.githubusercontent.com/19198181/224200190-e44f9543-d10d-49a5-bba5-ecba2e33d91b.png)
+![e-commerce database ER diagram drawio](https://user-images.githubusercontent.com/19198181/224200190-e44f9543-d10d-49a5-bba5-ecba2e33d91b.png)  
 
+_(open the impage in new tab and use zoom for better visibility)_
 
 ## Creating Tables  
 
